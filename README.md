@@ -4,17 +4,7 @@
 
 ---
 
-## 👥 Project Team
-
-| Name | Role |
-|------|------|
-| Athul | Team Member |
-| MD Karamath | Team Member |
-| Prasad Desai | Team Member |
-| Mani Koushik | Team Member |
-| Vipul Dhange | Team Member |
-| **Karthik** | Mentor |
-| **Stephy** | Co-Mentor |
+link to view : https://global-development-measurement-clustering-project-53taol9twykv.streamlit.app/
 
 ---
 
